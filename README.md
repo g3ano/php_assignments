@@ -1,2 +1,3 @@
-# php_assignments
+# PHP bootcamp assignments
+
 Assignments for Elzero PHP bootcamp
