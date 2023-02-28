@@ -4,10 +4,11 @@ Here is my assignments of elzero PHP bootcamp
 
 ## Table of content:
 
-1. Week 1
-2. Week 2
-3. Week 3
-4. Week 4
-5. Week 5
-6. Week 6
-7. [Week 7](/assignments_73_81)
+1. [Variables and constants](/assignments_13_19)
+2. [Operators](/assignments_20_29)
+3. [If condition and switch](/assignments_30_36)
+4. [Loop](/assignments_37_42)
+5. [Function](/assignments_43_52)
+6. [String](/assignments_53_62)
+7. [Array](/assignments_63_72)
+8. [Math and Filters](/assignments_73_81)
