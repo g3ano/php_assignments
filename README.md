@@ -10,4 +10,4 @@ Here is my assignments of elzero PHP bootcamp
 4. Week 4
 5. Week 5
 6. Week 6
-7. Week 7
+7. [Week 7](/assignments_73_81)
